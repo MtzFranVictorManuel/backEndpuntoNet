@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "backEndpuntoNet", "backEndpuntoNet.csproj", "{B94FB3A0-147E-4310-AF57-3BAEC6842044}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B94FB3A0-147E-4310-AF57-3BAEC6842044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B94FB3A0-147E-4310-AF57-3BAEC6842044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B94FB3A0-147E-4310-AF57-3BAEC6842044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B94FB3A0-147E-4310-AF57-3BAEC6842044}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE007E15-2A73-4662-9FC5-AE61213F385D}
+	EndGlobalSection
+EndGlobal
